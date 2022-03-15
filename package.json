@@ -1,0 +1,25 @@
+{
+  "name": "TFD105-23",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "安裝套件": "npm install"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/54CIAO-LI/TFD105-23.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/54CIAO-LI/TFD105-23/issues"
+  },
+  "homepage": "https://github.com/54CIAO-LI/TFD105-23#readme",
+  "dependencies": {
+    "gulp": "^4.0.2",
+    "save-dev": "^0.0.1-security"
+  }
+}
